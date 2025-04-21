@@ -4,7 +4,44 @@
   --bem-terra: #9D4916;
 }
 
-body {
-  background-color: var(--bem-dark);
-  color: white;
+.text-bem-terra {
+  color: #9D4916 !important;
+}
+
+.text-bem-nude {
+  color: #D9C0AA !important;
+}
+
+.bg-bem-terra {
+  background-color: #9D4916 !important;
+}
+
+.bg-bem-nude {
+  background-color: #D9C0AA !important;
+}
+
+.border-bem-terra {
+  border-color: #9D4916 !important;
+}
+
+.border-bem-nude {
+  border-color: #D9C0AA !important;
+}
+
+.btn-primary {
+  background-color: #9D4916 !important;
+  border-color: #9D4916 !important;
+}
+
+.btn-secondary {
+  border-color: #D9C0AA !important;
+  color: #D9C0AA !important;
+}
+
+.nav-link-active {
+  color: #9D4916 !important;
+}
+
+.border-decorative::after {
+  background-color: #9D4916 !important;
 }
