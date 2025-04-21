@@ -1,0 +1,12 @@
+:root {
+  --bem-dark: #0D181C;
+  --bem-nude: #D9C0AA;
+  --bem-terra: #9D4916;
+}
+
+body {
+  background-color: var(--bem-dark);
+  color: white;
+}
+
+/* Adicione outras classes de cores conforme necessário */
